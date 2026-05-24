@@ -1,3 +1,4 @@
+'use client'
 export default function ATFTankCalculator() {
   const calibrationTable = [
     { dip: 135.2, volume: 10500 },
